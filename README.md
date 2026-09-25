@@ -23,3 +23,5 @@ shadow.Draw(screen, shadow.Block{X, Y, W, H}, lightX, lightY, opts)
     AntiAlias: true,
 }
 ```
+
+![](screen.png)
